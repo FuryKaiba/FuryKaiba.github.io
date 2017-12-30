@@ -1,6 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
  @font-face { font-family: Bambola; src: url('iCielBambola.otf'); } 
+ @font-face { font-family: Amerigraf; src: url('iCielAmerigraf.otf'); } 
 
 body {
 font-family:'Wendy One', sans-serif;
@@ -272,7 +273,7 @@ body {
 {
 	
 	text-align: right;
-	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-family: amerigraf;
 	color: black;
-	font-size: 14px;
+	font-size: 16px;
 }
